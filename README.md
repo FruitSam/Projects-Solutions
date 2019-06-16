@@ -1,9 +1,10 @@
-This repo links to solutions of [Projects](https://github.com/thekarangoel/Projects) written by other users in any language. See [how to contribute](https://github.com/thekarangoel/Projects/blob/master/CONTRIBUTING.md) to this repo.
+﻿This repo links to solutions of [Projects](https://github.com/thekarangoel/Projects) written by other users in any language. See [how to contribute](https://github.com/thekarangoel/Projects/blob/master/CONTRIBUTING.md) to this repo.
 
 =========================================
 
 Numbers
 ---------
+Hiba
 
 **Find PI to the Nth Digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go. [[geekpradd (Python)]](https://github.com/geekpradd/PythonPi/blob/master/PythonPi.py)
 [[MrBlaise (Python)]](https://github.com/MrBlaise/learnpython/blob/master/Numbers/pi.py) [[whoshuu (Python)]](https://github.com/whoshuu/Projects/blob/master/Numbers/pi.py) [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/Pi.hs) [[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Numbers/pi.rb) [[atomic22 (PHP)]](https://github.com/atomic22/problem_solving/blob/master/Pi_to_Nth.php) [[quitrk (JavaScript)]](https://github.com/quitrk/LearningJS/blob/master/Numbers/00.%20Find%20PI%20to%20the%20Nth%20Digit.js) [[ScottKolo (Go)]](https://github.com/ScottKolo/GoProjects/blob/master/Numbers/pi.go) [[desertwebdesigns (Python)]](https://bitbucket.org/desertwebdesigns/learn_python/src/master/Numbers/pi.py) [[aysark (Java)]](https://github.com/aysark/Review/blob/master/Projects/src/PiToTheNth.java) [[lazynight (Python)]](https://github.com/Flowerowl/Projects/blob/master/solutions/numbers/find_pi_to_the_nth_digit.py) [[abadojack(Go)]](https://github.com/abadojack/Playground/blob/master/Projects-Solutions/Numbers/Go/pi.go) [[abadojack(Java)]](https://github.com/abadojack/Playground/blob/master/Projects-Solutions/Numbers/Java/Pi.java) [[lazy0getter(Swift)]](https://github.com/lazy0getter/codeless-code/blob/master/Swift/Projects-solutions.playground/section-1.swift)
